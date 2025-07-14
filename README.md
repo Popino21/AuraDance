@@ -34,7 +34,7 @@
   <p>AuraCoin is a meme crypto token inspired by the viral TikTok Aura Dance trend. 50% of all profits will be donated to help feed starving children in Africa.</p>
 
   <video controls autoplay loop muted>
-    <source src="auradance.mov" type="video/mp4" />
+    <source src="auradance.mp4" type="video/mp4" />
     Your browser does not support the video tag.
   </video>
 </body>
